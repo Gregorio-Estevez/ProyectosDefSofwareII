@@ -1,0 +1,11 @@
+C:\Users\grego\Desktop\def-sof-4\Registrador_De_Cedula\bin\Debug\Registrador_De_Cedula.exe.config
+C:\Users\grego\Desktop\def-sof-4\Registrador_De_Cedula\bin\Debug\Registrador_De_Cedula.exe
+C:\Users\grego\Desktop\def-sof-4\Registrador_De_Cedula\bin\Debug\Registrador_De_Cedula.pdb
+C:\Users\grego\Desktop\def-sof-4\Registrador_De_Cedula\obj\Debug\Registrador_De_Cedula.csproj.AssemblyReference.cache
+C:\Users\grego\Desktop\def-sof-4\Registrador_De_Cedula\obj\Debug\Registrador_De_Cedula.csproj.SuggestedBindingRedirects.cache
+C:\Users\grego\Desktop\def-sof-4\Registrador_De_Cedula\obj\Debug\Registrador_De_Cedula.indexForm.resources
+C:\Users\grego\Desktop\def-sof-4\Registrador_De_Cedula\obj\Debug\Registrador_De_Cedula.Properties.Resources.resources
+C:\Users\grego\Desktop\def-sof-4\Registrador_De_Cedula\obj\Debug\Registrador_De_Cedula.csproj.GenerateResource.cache
+C:\Users\grego\Desktop\def-sof-4\Registrador_De_Cedula\obj\Debug\Registrador_De_Cedula.csproj.CoreCompileInputs.cache
+C:\Users\grego\Desktop\def-sof-4\Registrador_De_Cedula\obj\Debug\Registrador_De_Cedula.exe
+C:\Users\grego\Desktop\def-sof-4\Registrador_De_Cedula\obj\Debug\Registrador_De_Cedula.pdb
